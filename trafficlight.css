@@ -1,0 +1,64 @@
+.bg{
+    background-color: skyblue;
+    height: 100vh;
+    width: 100%;
+}
+.light{
+    height: 250px;
+    width: 80px;
+    border-radius: 50px;
+    background-color: darkviolet;
+   
+   
+}
+#red{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+   background-color: gray;
+    margin: 15px;
+}
+    
+#yellow{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: gray;
+    margin: 15px;
+}
+    
+   
+#green{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: gray;
+    margin: 15px;
+}
+#b1{
+    border-radius: 10px;
+    height: 50px;
+    width: 100px;
+    margin: 20px;
+    background-color: gray;
+    color: white;
+}
+#b2{
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    margin: 20px;
+    background-color: gray;
+    color: white;
+}
+#b3{
+    height: 50px;
+    width: 100px;
+    border-radius: 10px;
+    margin: 20px;
+    background-color: gray;
+    color: white;
+}
+   
+
+ 

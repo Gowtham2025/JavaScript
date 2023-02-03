@@ -1,0 +1,9 @@
+.bg{
+    background-color: tomato;
+}
+.bg2{
+    background-color: brown;
+    height: 100%;
+    width: 70%;
+    margin: 150px;
+}
