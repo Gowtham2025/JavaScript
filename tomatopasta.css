@@ -1,0 +1,6 @@
+.bg2{
+    background-image: linear-gradient(skyblue,blue);
+    height: 50vh;
+    width: 100%;
+    border-radius: 20px;
+}
